@@ -1,0 +1,28 @@
+﻿{
+  "authors": [
+    "One Frame Link"
+  ],
+  "description": "Abstractions used by the Ofl.Atlassian.Jira project.",
+  "supports": {},
+  "dependencies": {
+    "Newtonsoft.Json": "9.0.1",
+    "Ofl.Core": "1.5.3"
+  },
+  "frameworks": {
+    "netstandard1.3": {}
+  },
+  "packOptions": {
+    "owners": [
+      "One Frame Link"
+    ],
+    "summary": "Abstractions used by the Ofl.Atlassian.Jira project.",
+    "projectUrl": "https://github.com/OneFrameLink/Ofl.Twitch",
+    "iconUrl": "https://raw.githubusercontent.com/OneFrameLink/Ofl._Shared/master/OneFrameLink_225x225.png",
+    "licenseUrl": "https://raw.githubusercontent.com/OneFrameLink/Ofl._Shared/master/LICENSE.md",
+    "requireLicenseAcceptance": true,
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/OneFrameLink/Ofl.Twitch.git"
+    }
+  }
+}
